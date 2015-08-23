@@ -1,0 +1,2 @@
+# IB-Extended-Essay-Computer-Science
+this repository contains a copy of my extended essay in Computer Science completed for the international baccalaureate diploma in 2013. It focuses on the analysis of the best detection methods for polymorphic viruses. No prior knowledge in this area is assumed and none was known before starting this project and hence it should be quite accessible. All necessary preliminary background knowledge is provided and 2 file formats proved (word doc and pdf)
